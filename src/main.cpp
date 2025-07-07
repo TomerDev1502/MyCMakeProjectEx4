@@ -1,6 +1,7 @@
-#include "MyFunctions.h"
+#include "Shell.h"
 
 int main() {
-    sayHello();
+    Shell shell;
+    shell.run();
     return 0;
 }

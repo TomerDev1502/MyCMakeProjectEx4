@@ -1,10 +1,12 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(MyCMakeProject_Headers)
+project(MyShell)
 
 include_directories(include)
 
-add_executable(MyCMakeProject_Headers 
+add_executable(MyShell 
     src/main.cpp
-    src/MyFunctions.cpp
+    src/Shell.cpp
+    src/CommandParser.cpp
+    src/ExternalCommand.cpp
 )
