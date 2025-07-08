@@ -11,4 +11,6 @@ public:
 
 private:
     std::vector<std::string> args;
+
+    std::string findExecutable(const std::string& cmd);
 };
