@@ -1,0 +1,3 @@
+/home/tomerd/MyCMakeProjects/build/CMakeFiles/MyShell.dir
+/home/tomerd/MyCMakeProjects/build/CMakeFiles/edit_cache.dir
+/home/tomerd/MyCMakeProjects/build/CMakeFiles/rebuild_cache.dir
